@@ -1,3 +1,0 @@
-[submodule "llm-scraper"]
-	path = llm-scraper
-	url = https://github.com/mishushakov/llm-scraper.git
